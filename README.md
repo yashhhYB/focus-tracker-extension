@@ -27,17 +27,20 @@ Open Chrome and go to chrome://extensions/.
 Enable Developer Mode (toggle at the top right).
 Click "Load Unpacked" and select the focus-tracker-extension folder.
 The extension is now installed! 🎉
+
 🛠 Usage
 Click the extension icon to open the popup.
 Use the "Check Distraction" button to manually track distractions.
 The extension will automatically detect and alert if a distracting website is visited.
 Receive periodic focus reminders to stay productive.
-📝 Future Enhancements
-✅ AI-powered distraction detection using TensorFlow.js.
-✅ Customizable blacklist of distracting websites.
-✅ Advanced analytics dashboard with focus trends.
-✅ Cloud sync with Firebase for tracking across multiple devices.
-🧑‍💻 Contributing
+
+##📝 Future Enhancements
+-✅ AI-powered distraction detection using TensorFlow.js.
+-✅ Customizable blacklist of distracting websites.
+-✅ Advanced analytics dashboard with focus trends.
+-✅ Cloud sync with Firebase for tracking across multiple devices.
+
+##🧑‍💻 Contributing
 We welcome contributions! To contribute:
 
 Fork the repository.
