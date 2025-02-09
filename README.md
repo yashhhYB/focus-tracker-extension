@@ -11,7 +11,7 @@ The **Focus Tracker** extension helps users stay productive by tracking visits t
   
 ## 📷 Screenshots  
 ### 🔹 Extension Popup  
-![Focus Tracker Popup](Focus tracking.png).  
+![Focus Tracker Popup]([Focus tracking.png](https://github.com/yashhhYB/focus-tracker-extension/blob/b8384868466ef92603800498bdb009caebc70b44/focus%20tracking%202.png)).  
 
 ### 🔹 Distraction Alert  
 ![Distraction Alert](screenshots/alert.png) 
