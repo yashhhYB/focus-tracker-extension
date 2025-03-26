@@ -51,7 +51,7 @@ Open a Pull Request.
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🔗 Stay Focused. Stay Productive! 💡
+ Stay Focused. Stay Productive! 💡
 ---
 
 ### 🔥 **What’s Improved?**
