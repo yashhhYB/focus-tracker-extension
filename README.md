@@ -1,4 +1,4 @@
-# 🚀 Focus Tracker Chrome Extension
+#  Focus Tracker Chrome Extension
 
 ## 📌 Description
 The **Focus Tracker** extension helps users stay productive by tracking visits to distracting websites and sending reminders to refocus. It is designed for individuals who want to improve their concentration and minimize time spent on non-productive sites.
