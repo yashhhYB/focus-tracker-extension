@@ -4,8 +4,8 @@
 The **Focus Tracker** extension helps users stay productive by tracking visits to distracting websites and sending reminders to refocus. It is designed for individuals who want to improve their concentration and minimize time spent on non-productive sites.
 
 ## ✨ Features
-- 🛑 **Detects Distractions** – Monitors browsing activity and identifies distracting websites.
-- ⚡ **Real-Time Alerts** – Sends pop-up reminders when visiting specified sites.
+-  **Detects Distractions** – Monitors browsing activity and identifies distracting websites.
+-  **Real-Time Alerts** – Sends pop-up reminders when visiting specified sites.
 -  **Focus Reminders** – Notifies users at regular intervals to stay on task.
 -  **Syncs with Firebase** (Planned) – Allows cross-device tracking for enhanced focus monitoring.
   
